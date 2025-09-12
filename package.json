@@ -1,0 +1,14 @@
+{
+  "name": "ai-reveal-2025-09",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "python3 -m http.server",
+    "test": "echo \"No tests\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
